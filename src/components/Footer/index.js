@@ -8,7 +8,7 @@ function Footer() {
         <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
       </a>
       <p>
-        Orgulhosamente criado por Weslley Fratini na
+        Orgulhosamente criado por Weslley Fratini n
         {' '}
         <a href="https://www.alura.com.br/">
           Imersão React da Alura
